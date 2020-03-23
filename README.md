@@ -1,2 +1,2 @@
-# Semi-I2I
+# SEMIT
 Coming soon
