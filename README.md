@@ -32,7 +32,7 @@ In the last few years, unpaired image-to-image translation has witnessed remarka
 
 # Framework 
 <br>
-<p align="center"><img width="100%" height='60%'src="img/framework/framework.pdf" /></p>
+<p align="center"><img width="100%" height='60%'src="img/framework/framework.png" /></p>
 
 # Results 
 <br>
