@@ -36,7 +36,8 @@ In the last few years, unpaired image-to-image translation has witnessed remarka
 
 # Results 
 <br>
-<p align="center"><img width="100%" height='60%'src="img/smaples/animals.png" /></p>
+<p align="center"><img width="100%" height='60%'src="img/samples/animals.png" /></p>
+
 
 
 # References 
