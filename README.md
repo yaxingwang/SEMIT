@@ -14,7 +14,7 @@ In the last few years, unpaired image-to-image translation has witnessed remarka
 # Dependences 
 - Python3.7, NumPy, SciPy,NVIDIA DGX1(8-V100, 32GB) 
 - **Pytorch:** the version is 1.2 (https://pytorch.org/)
-- **Dataset:** [Animal Face Dataset](https://github.com/NVlabs/FUNIT), [NABirds](https://dl.allaboutbirds.org/nabirds), [flowers102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html), [UECFOOD256](http://foodcam.mobi/dataset256.html)  
+- **Dataset:** [Animal Face Dataset](https://github.com/NVlabs/FUNIT)  
 
 # Installation 
 - Install pytorch 
